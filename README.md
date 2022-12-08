@@ -49,14 +49,20 @@ Constraints:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Profile Page
 Has options to make a post, and to comment on users post
+
 ![](Images/SomilPost.png)
 
 
 ## Make a post
 When you make a post, you select an image and have to write a description. You then press upload and it will post
 
+![](Images/SomilPost.png)
+
+
 ## Make a comment
 You can comment on anyones post that is in post page
+![](Images/SomilComment.jpeg)
+
 
 # Menu
 Has all the options from:
@@ -67,18 +73,25 @@ Has all the options from:
 5) Chat
 6) Logout
 
+![](Images/SomilMenu.jpeg)
+
 ## Profile page
 User info like user name, age, and email will be displayed
+
+![](Images/SomilProfile.jpeg)
+
 
 ## Find Friends
 You can search a friend to find
 If searched friend already sent you a request, then a option to accept or deny will appear
+![](Images/SomilFindFriend)
 
 ## Send request
 You will recieve a a request saying accept or deny
+![](Images/SomilAcceptDeny.jpeg)
 
 ## Database
 All information from users, comments, pictures, friend requeusts got saved in Firebase to get retrieved later
-
+![](Images/FirebaseForProj.jpeg)
 
 
