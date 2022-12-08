@@ -38,11 +38,15 @@ If don't want to make an account
 Email: somilajmera52@gmail.com
 Password: 123456789
 
+![](Images/Register.png)
+
+
 ## Login
 Constraints:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 1)Must verify email through link
 2)Must contain "gmail.com" at end
 3)Password matches email and User
+![](Images/Login.png)
 
 
 
@@ -84,7 +88,7 @@ User info like user name, age, and email will be displayed
 ## Find Friends
 You can search a friend to find
 If searched friend already sent you a request, then a option to accept or deny will appear
-![](Images/SomilFindFriend)
+![](Images/SomilFindFriend.png)
 
 ## Send request
 You will recieve a a request saying accept or deny
