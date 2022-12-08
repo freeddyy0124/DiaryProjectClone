@@ -60,7 +60,11 @@ You can comment on anyones post that is in post page
 # Menu
 Has all the options from:
 1) Home
-2) 
+2) Profile
+3) Friends
+4) Find Friends
+5) Chat
+6) Logout
 
 ## Profile page
 User info like user name, age, and email will be displayed
