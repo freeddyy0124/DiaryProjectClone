@@ -49,7 +49,7 @@ Constraints:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Profile Page
 Has options to make a post, and to comment on users post
-![](Images/SomilPost.jpeg)
+![](Images/SomilPost.png)
 
 
 ## Make a post
