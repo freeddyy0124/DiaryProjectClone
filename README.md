@@ -27,8 +27,53 @@ Constraints:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 1) You cannot make an account on our application without uploading a profile picture only filling in the credentials will not be enough to make an account.
 2) The email verification sent will most of the time end up in the spam email category.
 3) Only Gmail email addresses are valid in the email field when signing up for an account
-4) ...
+4) Username must be at least 7 characters
+5) Must be at least 18 years old
+6) Password has to be more than 8 characters
+7) Passwords must match
+
+After registering, that email cannot be used again to register.
 
 If don't want to make an account 
 Email: somilajmera52@gmail.com
 Password: 123456789
+
+## Login
+Constraints:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+1)Must verify email through link
+2)Must contain "gmail.com" at end
+3)Password matches email and User
+
+
+
+
+## Profile Page
+Has options to make a post, and to comment on users post
+
+
+## Make a post
+When you make a post, you select an image and have to write a description. You then press upload and it will post
+
+## Make a comment
+You can comment on anyones post that is in post page
+
+# Menu
+Has all the options from:
+1) Home
+2) 
+
+## Profile page
+User info like user name, age, and email will be displayed
+
+## Find Friends
+You can search a friend to find
+If searched friend already sent you a request, then a option to accept or deny will appear
+
+## Send request
+You will recieve a a request saying accept or deny
+
+## Database
+All information from users, comments, pictures, friend requeusts got saved in Firebase to get retrieved later
+
+
+
